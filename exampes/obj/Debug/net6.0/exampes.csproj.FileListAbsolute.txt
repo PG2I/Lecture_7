@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\bin\Debug\net6.0\exampes.exe
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\bin\Debug\net6.0\exampes.deps.json
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\bin\Debug\net6.0\exampes.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\bin\Debug\net6.0\exampes.dll
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\bin\Debug\net6.0\exampes.pdb
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\obj\Debug\net6.0\exampes.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\obj\Debug\net6.0\exampes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\obj\Debug\net6.0\exampes.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\obj\Debug\net6.0\exampes.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\obj\Debug\net6.0\exampes.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\obj\Debug\net6.0\exampes.dll
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\obj\Debug\net6.0\refint\exampes.dll
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\obj\Debug\net6.0\exampes.pdb
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\obj\Debug\net6.0\exampes.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение Geekbreins\L7\exampes\obj\Debug\net6.0\ref\exampes.dll
